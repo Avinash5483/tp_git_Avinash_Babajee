@@ -2,7 +2,7 @@
 
 import sys
 
-def add_num(a,b):
+def add_num(a,b,c):
     sum=a+b
     return sum;
 
